@@ -1,0 +1,21 @@
+{
+  "version": "3.5.0",
+  "verified_date": "2026-10-11",
+  "desktop": {
+    "filename": "uncensorcloud-free-3.5.0-windows-x64.zip",
+    "bytes": 8916040918,
+    "sha256": "914ef4cb13bee4f6a1e72ec0ce05cf1515355fbe83e1d3782261dfd3e53da614",
+    "url": "https://uncensorcloud.com/download/free"
+  },
+  "source": {
+    "filename": "uncensorcloud-3.5.0-source-full.zip",
+    "bytes": 6799567,
+    "sha256": "2e13c77883d4970daa183a06c2189dad5bada72ccbd5cc498d08dbb37a94f231",
+    "url": "https://github.com/trend29999/uncensorcloud/releases/download/v3.5.0/uncensorcloud-3.5.0-source-full.zip",
+    "website_url": "https://uncensorcloud.com/download/source"
+  },
+  "website_url_may_advance_to_newer_version": true,
+  "account_required": true,
+  "account_verification_requires_internet": true,
+  "local_processing_free": true
+}
