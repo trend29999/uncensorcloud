@@ -1,6 +1,6 @@
-# uncensorcloud 3.5.0 — Free local video restoration & subtitles
+# uncensorcloud 3.5.0 — AI mosaic removal & local subtitles
 
-The Windows desktop edition brings GPU video restoration and local subtitle generation into one browser workspace.
+The Windows desktop edition brings AI mosaic removal (去除马赛克) and local subtitle generation into one browser workspace.
 
 ## Download and start
 
@@ -10,7 +10,7 @@ Extract the entire ZIP and run `Start-Free.cmd`. A free verified account and int
 
 ## Included in 3.5.0
 
-- Automatic/manual restoration regions, motion tracking, timeline corrections and temporal stability controls.
+- AI mosaic removal with automatic/manual regions, motion tracking, timeline corrections and temporal stability controls.
 - 10-second restoration preview, synchronized comparison and full-video export with audio.
 - Local Whisper large-v3-turbo transcription and M2M100 translation, with eight subtitle output languages.
 - Editable cues, SRT/VTT/original-language SRT export, and switchable subtitle tracks in video exports.
@@ -31,4 +31,4 @@ GitHub's automatic source ZIP/tarball contains this download-guide repository. F
 
 **[Quick start](https://github.com/trend29999/uncensorcloud#start-in-five-steps) · [中文说明](https://github.com/trend29999/uncensorcloud/blob/main/README.zh-CN.md) · [Report an issue](https://github.com/trend29999/uncensorcloud/issues)**
 
-喜欢本地版的话，欢迎 Star、订阅 Release 和分享下载链接。视频修复与字幕均免费在本机处理；联网账号验证仍然必需。源码与上游署名保留，详见随包许可证。
+喜欢本地版的话，欢迎 Star、订阅 Release 和分享下载链接。AI 去除马赛克与字幕均免费在本机处理；联网账号验证仍然必需。源码与上游署名保留，详见随包许可证。

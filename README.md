@@ -1,6 +1,6 @@
-# uncensorcloud — Free Windows video restoration & local subtitles
+# uncensorcloud — Free Windows AI mosaic removal & local subtitles
 
-**Restore selected video regions, follow motion, and create translated subtitles on your own computer.**
+**Remove video mosaic with AI, follow moving regions, and create translated subtitles on your own computer.**
 
 [Download Windows edition](https://uncensorcloud.com/download/free) · [Release & source](https://github.com/trend29999/uncensorcloud/releases/latest) · [Website](https://uncensorcloud.com) · [中文说明](README.zh-CN.md)
 
@@ -12,7 +12,7 @@ The portable desktop edition bundles its runtimes and models. Video restoration 
 
 | Feature | Workflow |
 | --- | --- |
-| Video restoration | Automatic mosaic-region detection or manual region selection |
+| AI mosaic removal (video demosaicing) | Automatic mosaic-region detection or manual region selection |
 | Moving regions | Timeline corrections, motion tracking and scene-cut resets |
 | Review before export | A 10-second restoration preview and original/result comparison |
 | Stable output | Temporal stability controls, optional region enhancement, full HEVC/MP4 export with audio |

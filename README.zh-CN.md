@@ -1,6 +1,6 @@
-# uncensorcloud — 免费 Windows 视频修复与本地字幕
+# uncensorcloud — 免费 Windows AI 去除马赛克与本地字幕
 
-**在自己的电脑上修复视频区域、跟踪移动目标，并生成、翻译和编辑字幕。**
+**在自己的电脑上用 AI 去除视频马赛克、跟踪移动区域，并生成、翻译和编辑字幕。**
 
 [下载 Windows 免费版](https://uncensorcloud.com/download/free) · [版本与源码](https://github.com/trend29999/uncensorcloud/releases/latest) · [官网](https://uncensorcloud.com) · [English](README.md)
 
@@ -8,7 +8,7 @@
 
 ## 功能
 
-- 自动检测或手动选择修复区域，支持时间线校正、运动跟踪和切镜重置。
+- AI 去除马赛克：自动检测或手动选择马赛克区域，支持时间线校正、运动跟踪和切镜重置。
 - 先做 10 秒预览，比较原片与结果，再导出完整 HEVC/MP4 视频及音轨。
 - 可调整时间稳定性、区域增强和低显存设置。
 - 本地语音识别、字幕翻译、时间与文本编辑，导出 SRT/VTT 或可切换字幕轨视频。
